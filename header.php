@@ -12,7 +12,7 @@
     <div class="container px-4 mx-auto md:flex md:items-center">
 
       <div class="flex justify-between items-center">
-        <a href="#" class="font-bold text-xl text-indigo-600"><img class="h-4 w-" src="http://localhost/wpIIDE/wp-content/uploads/2023/08/IIDELogo.png" alt=""></a>
+        <a href="#" class="font-bold text-xl text-indigo-600"><img class="h-full w-20" src="<?php echo get_theme_file_uri('/images/IIDELogo.png'); ?>" alt=""></a>
         <div class="px-10">
 
           <div class="dropdown inline-block relative">

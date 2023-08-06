@@ -8,18 +8,34 @@ get_header(); ?>
     <div class="item relative">
       <img class="w-full h-full object-cover object-top" src="<?php echo get_theme_file_uri('/images/slider0.png'); ?>" alt="...">
       <div class="content absolute top-0 left-0 text-white w-1/2 pl-4 h-full flex-col flex justify-center">
-        <img src="" alt="" class="logo">
-        <h2>Heading</h2>
-        <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam vel cum dolore impedit ratione modi id fugiat iste similique maiores quisquam officiis eaque quo veritatis nisi dolorum nemo, labore ut!</p>
+      <img src="<?php echo get_theme_file_uri('/images/IIDEAwards.webp'); ?>" alt="" class="logo h-12 w-48">
+        <h2>MBA-Level Programme
+Post Graduation in Digital Marketing</h2>
+        <p class="mt-5">Master Digital Marketing in India with a combination of intense managerial skills and cutting edge technical skills and become a mid-senior management candidate in 11 months.</p>
         <p class="sub-heading mt-5">Program Commences: Aug 11, 2023</p>
         <a href="#" class="bg-blue-500 hover:bg-blue-700 text-white font-bold mt-5 py-2 px-4 rounded h-fit w-36">View course</a>
       </div>
     </div>
-    <div class="item">
+    <div class="item relative">
       <img class="w-full h-full object-cover object-top" src="<?php echo get_theme_file_uri('/images/slider2.webp'); ?>" alt="...">
+      <div class="content absolute top-0 left-0 text-white w-1/2 pl-4 h-full flex-col flex justify-center">
+      <img src="<?php echo get_theme_file_uri('/images/IIDEAwards.webp'); ?>" alt="" class="logo h-12 w-48">
+        <h2>Short Term Certifications
+In Digital Marketing</h2>
+        <p class="mt-5">Short Term Certifications in Digital Marketing Week-long courses to upskill yourself in various aspects of digital marketing with industry – recognized certifications.</p>
+        <p class="sub-heading mt-5">Program Commences: Aug 11, 2023</p>
+        <a href="#" class="bg-blue-500 hover:bg-blue-700 text-white font-bold mt-5 py-2 px-4 rounded h-fit w-36">View course</a>
+      </div>
     </div>
-    <div class="item">
+    <div class="item relative">
       <img class="w-full h-full object-cover object-top" src="<?php echo get_theme_file_uri('/images/slider1.webp'); ?>" alt="...">
+      <div class="content absolute top-0 left-0 text-white w-1/2 pl-4 h-full flex-col flex justify-center">
+        <img src="<?php echo get_theme_file_uri('/images/IIDEAwards.webp'); ?>" alt="" class="logo h-12 w-48">
+        <h2>Online Digital Marketing Courses with Certifications</h2>
+        <p class="mt-5">Master Digital Marketing in India with a combination of intense managerial skills and cutting edge technical skills and become a mid-senior management candidate in 11 months.</p>
+        <p class="sub-heading mt-5">Program Commences: Aug 11, 2023</p>
+        <a href="#" class="bg-blue-500 hover:bg-blue-700 text-white font-bold mt-5 py-2 px-4 rounded h-fit w-36">View course</a>
+      </div>
     </div>
   </div>
 </section>
@@ -104,7 +120,7 @@ get_header(); ?>
       </div>
     </div>
     <div class="card px-10 justify-items-center flex-wrap">
-      <div class="align-middle align-items-left p-5 bg-[url('../images/slider2.webp')] bg-cover bg-no-repeat bg-right	p-5 h-96">
+      <div class="align-middle align-items-left p-5 bg-[url('../images/slider1.png')] bg-cover bg-no-repeat bg-right	p-5 h-96">
         <span class="bg-blue-800 text-xs text-white py-2 px-4 rounded">MBA-LEVEL</span><br>
         <div class="py-4">
           <h class="font-bold text-white">Post Graduation in Digital Marketing</h>
@@ -118,7 +134,7 @@ get_header(); ?>
       </div>
     </div>
     <div class="card px-10 justify-items-center flex-wrap">
-      <div class="align-middle align-items-left p-5 bg-[url(../images/slider1.webp')] bg-cover bg-no-repeat bg-right	p-5 h-96">
+      <div class="align-middle align-items-left p-5 bg-[url('../images/slider2.png')] bg-cover bg-no-repeat bg-right	p-5 h-96">
         <span class="bg-blue-800 text-xs text-white py-2 px-4 rounded">MBA-LEVEL</span><br>
         <div class="py-4">
           <h class="font-bold text-white">Post Graduation in Digital Marketing</h>
