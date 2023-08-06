@@ -33,10 +33,10 @@
                   <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
                 </svg>
 
-                <ul class="min-w-max dropdown-menu absolute left-full top-0 hidden text-gray-700 bg-white pt-1">
-                  <li>List Item #1</li>
-                  <li>List Item #2</li>
-                  <li>List Item #3</li>
+                <ul class="rounded-b min-w-max dropdown-menu absolute left-full top-0 hidden text-gray-700 bg-white pt-1">
+                  <li><a class="rounded-b bg-white hover:bg-white py-2 px-8 block whitespace-no-wrap" href="#">4-6 Months Certification</a></li>
+                  <li><a class="rounded-b bg-white hover:bg-white py-2 px-8 block whitespace-no-wrap" href="#">11-Months MBA</a></li>
+                  <li><a class="rounded-b bg-white hover:bg-white py-2 px-8 block whitespace-no-wrap" href="#">Short Courses</a></li>
                 </ul>
 
               </li>
