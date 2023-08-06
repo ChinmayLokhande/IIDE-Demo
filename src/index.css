@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-slider img{max-height: 80vh;}
+.slick-arrow{position: absolute;
+    top: 50%;
+    color:white;
+    padding: 20px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    z-index: 4;
+    justify-content: center;}
+    .slick-arrow.slider-next{right: 0;}
+    .slick-arrow.slider-prev{left: 0;}
+
+  .points-cards .card{width: 33%;}

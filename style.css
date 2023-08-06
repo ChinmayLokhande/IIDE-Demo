@@ -1,0 +1,25 @@
+/*
+  Theme Name: IIDE Custom
+  Author: chinmayy.exe
+*/
+
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}
+
+.slider {
+  overflow: hidden;
+  width: 100%;
+}
+
+/* The slider wrapper containing all slides */
+.slider-inner {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+/* Each slide */
+.slide {
+  flex-shrink: 0;
+  width: 100%;
+}
